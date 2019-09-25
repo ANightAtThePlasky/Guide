@@ -8,11 +8,11 @@
 5. open github.com/ANightAtThePlasky
 6. Druk New (repository)
 7. Voer de volgende stappen uit in de git bash voor initiele configuratie
-  * git init
-  * git add *
-  * git commit -m "kick drum changed"
-  * git remote add origin git@github.com:ANightAtThePlasky/<repository_naam>.git
-  * git push
+    * git init
+    * git add *
+    * git commit -m "kick drum changed"
+    * git remote add origin git@github.com:ANightAtThePlasky/<repository_naam>.git
+    * git push
   
 ## Get new song from collaborator
 1. go to github, naar de repository van het nieuwe nummer
@@ -21,13 +21,13 @@
 4. go to projects folder in documents (FL Studio)
 5. open git bash here
 6. Voer de volgende stappen uit in de git bash
-  * git clone <gekopieerde link>
+    * git clone <gekopieerde link>
   
 ## Changed something
 1. Voer de volgende stappen uit in de git bash voor changes
-  a. git add *
-  b. git commit -m "snare drum changed"
-  c. git push
+  * git add *
+  * git commit -m "snare drum changed"
+  * git push
     als dit misgaat, ga maar "Other Collaborator changes"
   
 ## Other collaborator changes
