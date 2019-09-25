@@ -28,11 +28,11 @@
     * git add *
     * git commit -m "snare drum changed"
     * git push
-    als dit misgaat, ga maar "Other Collaborator changes"
+      * als dit misgaat, ga maar "Other Collaborator changes"
   
 ## Other collaborator changes
 1. Voer de volgende stappen uit in de git bash voor changes
     * git pull
-    dan gaat die mogelijks notepad++ openen, met en bepaald bericht, maar dat maakt niet uit, gewoon sluiten en doorgaan
+      * dan gaat die mogelijks notepad++ openen, met en bepaald bericht, maar dat maakt niet uit, gewoon sluiten en doorgaan
     * git push
-    als dit misgaat, ga maar "Other Collaborator changes"
+      * als dit misgaat, ga maar "Other Collaborator changes"
