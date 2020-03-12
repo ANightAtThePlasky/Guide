@@ -36,3 +36,9 @@
       * dan gaat die mogelijks notepad++ openen, met en bepaald bericht, maar dat maakt niet uit, gewoon sluiten en doorgaan
     * git push
       * als dit misgaat, ga maar "Other Collaborator changes"
+      
+## Undo change
+1. git log
+ -- find the commit id you want
+2. git checkout <commitId> . 
+ -- IMPORTANT NOTE: the trailing `.` in the previous line is important!
