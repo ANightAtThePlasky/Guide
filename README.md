@@ -48,4 +48,9 @@
 ## Mixing Guide
 
 ### Tips 'n Tricks
+**Gain Staging**
+* Add Gain Unit at start of effects chain and at end
 * Volume to feed into plugins: -18dB
+* This way: your mixer faders won't be all the way down
+* Vid: https://www.youtube.com/watch?v=pinNLBnBRe8
+* Add 
