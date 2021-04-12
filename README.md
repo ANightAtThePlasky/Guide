@@ -62,6 +62,11 @@
   * bit depth: 32 bit Stereo
   * Resampling: 512 point sync
 * Prepare Folder structure for mastering projects
+* Decide on analog or digital sound
+* Decide on mastering chain to use
+  * Stock plugins
+  * Ozone
+  * Waves pack
 
 ### Mastering
 * Ozone
