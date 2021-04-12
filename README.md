@@ -53,3 +53,21 @@
 * Volume to feed into plugins: -18dB
 * This way: your mixer faders won't be all the way down
 * Vid: https://www.youtube.com/watch?v=pinNLBnBRe8
+
+
+## Mastering Guide
+### Initialization
+* Remove all mastering bus effects on individual projects
+* Export to wav format at highest settings 
+  * bit depth: 32 bit Stereo
+  * Resampling: 512 point sync
+* Prepare Folder structure for mastering projects
+
+### Mastering
+* Ozone
+  * Equalizer
+  * Limiter
+* Add removed mastering bus effects again
+
+### Finalization
+* compare mixed and mastered at equal loudness
